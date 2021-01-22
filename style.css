@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.name-highlight{
+    color: #5d3088;
+}
+.name-light{
+    color: #ff8356;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:  #ff8356;
+    padding: 15px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+section{
+    padding-bottom: 45%;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: #524e4e;
+}
+.project-work{
+    display: block;
+    width: 20%;
+    float: left;
+    padding: 10px;
+    margin-left: 120px;
+}
+img{
+    width: 100%;
+}
+.work-highlight{
+    color: #ff8356;
+}
+.project-light{
+    color: #5d3088 ;
+}
+.just-work{
+    box-shadow: 10px 10px 40px gray;
+}
+.rock-light{
+    color: #5d3088 ;
+}
+h2{
+    text-align: right;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: #ff8356;
+    padding: 15px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    text-align: end;
+}
+.body-work{
+    height: 200px;
+    background-image: url("images/Group.png");
+    margin-left: 10%;
+    margin-right: 10%;
+    background-repeat: no-repeat;
+}
+.work-tex{
+    color:wheat;
+}
